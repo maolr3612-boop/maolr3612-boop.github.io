@@ -47,6 +47,22 @@
       "createdAt": "2026-10-23T02:22:00.000Z",
       "coverUrl": "/assets/covers/laowu.png",
       "updatedAt": "2026-10-23T02:22:00.000Z"
+    },
+    {
+      "id": "70d073a3-0d8e-4ccb-a412-e07f5b5e9c6f",
+      "title": "词光 Word Atlas · 英语学习",
+      "category": "产品设计",
+      "description": "以图像化词汇卡片呈现释义、例句与英美发音，结合 A1–C2 难度和雅思话题分类，提供词汇检索、练习、收藏与学习进度入口。\n\n无需注册，学习进度保存在当前设备。点击「访问项目」进入 A1 难度词汇图鉴。",
+      "link": "https://maolr3612-boop.github.io/word-atlas/#/atlas?level=A1",
+      "tags": [
+        "英语学习",
+        "词汇图鉴",
+        "交互设计",
+        "Web 应用"
+      ],
+      "createdAt": "2026-10-26T00:00:00.000Z",
+      "coverUrl": "/assets/covers/word-atlas.png",
+      "updatedAt": "2026-10-26T00:00:00.000Z"
     }
   ],
   "readOnly": true

@@ -1,6 +1,23 @@
 {
   "works": [
     {
+      "id": "video-action-showcase-20261026",
+      "title": "视频展示 · 动作短片",
+      "category": "视觉设计",
+      "description": "30 秒动作短片，呈现自然光影、动态镜头与紧凑的剪辑节奏。点击播放可直接观看完整视频。",
+      "link": "https://maolr3612-boop.github.io/assets/videos/action-showcase.mp4",
+      "videoUrl": "/assets/videos/action-showcase.mp4",
+      "coverUrl": "/assets/covers/action-showcase.jpg",
+      "tags": [
+        "视频展示",
+        "动作短片",
+        "光影",
+        "镜头语言"
+      ],
+      "createdAt": "2026-10-26T07:20:00.000Z",
+      "updatedAt": "2026-10-26T07:20:00.000Z"
+    },
+    {
       "id": "b54268cc-0089-4eab-ae85-59b72f519c62",
       "title": "FitLead AI · 健身规划",
       "category": "产品设计",
